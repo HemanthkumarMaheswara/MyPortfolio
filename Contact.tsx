@@ -1,0 +1,1 @@
+<textarea name="message" rows={4} required className="w-full p-3 rounded-lg bg-[#101624] border border-blue-900 text-gray-200 focus:outline-none focus:ring-2 focus:ring-blue-500" placeholder="Your message here..." /> 
