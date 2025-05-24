@@ -32,8 +32,8 @@ export default function About() {
             <FaUser className="text-blue-400 text-lg" />
             <span className="text-lg font-semibold text-blue-400">Bio</span>
           </div>
-          <p className="text-base text-gray-300 mb-6 max-w-2xl">
-            I am a data analyst and software engineering student with a passion for creating innovative solutions. Specializing in data analysis and web development, I combine technical expertise with creative problem-solving to build user-centric applications.
+          <p className="text-base text-gray-300 mb-6 max-w-2xl text-justify">
+            I am an aspiring data analyst with a passion for transforming data into meaningful insights. Specializing in data analysis and visualization, I combine analytical thinking with technical skills to uncover valuable patterns and trends. With a strong foundation in data science and statistical analysis, I strive to deliver data-driven solutions that help organizations make informed decisions and achieve their goals.
           </p>
 
           {/* Cards */}

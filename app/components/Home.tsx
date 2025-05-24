@@ -65,9 +65,9 @@ export default function Home() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.2 }}
-          className="text-2xl md:text-3xl font-medium text-gray-300 mb-2"
+          className="text-xl md:text-2xl font-medium text-gray-300 mb-2"
         >
-          Data Analyst & Software Engineering Student
+          Aspiring Data Analyst
         </motion.h2>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
@@ -75,7 +75,7 @@ export default function Home() {
           transition={{ duration: 0.6, delay: 0.3 }}
           className="text-lg text-gray-400 mb-8 max-w-xl"
         >
-          Building elegant solutions to complex problems with modern technologies.
+          Transforming raw data into actionable insights and driving data-driven decisions through analytical expertise.
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 20 }}
