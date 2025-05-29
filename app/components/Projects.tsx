@@ -12,7 +12,7 @@ const projects = [
   {
     title: "Seat Allotment Dashboard",
     description: "It provides insights into the distribution of seats across colleges and categories in India.",
-    image: "p3.png",
+    image: "p4.png",
     viewLink: "https://github.com/HemanthkumarMaheswara/BDS-Seat-Allotment.git",
   },
   {
